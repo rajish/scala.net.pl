@@ -5,7 +5,7 @@ http://scala-net-pl.herokuapp.com/
 
 FIRST MOCKUPS - https://moqups.com/mrzepinski/pGq6uN2U/
 
-### NEW COMMITS HAVE TO PUSHED TO `DEV` BRANCH - will be merged after milestone :)
+### NEW COMMITS > `DEV` BRANCH - will be merged after milestone :)
 
 ### Sprint #1
 - [ ] Mockups - https://github.com/mrzepinski/scala.net.pl/issues/5
