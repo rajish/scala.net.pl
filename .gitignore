@@ -1,6 +1,9 @@
 *.class
 *.log
 
+.target/
+.cache
+
 # sbt specific
 dist/*
 target/
