@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mrzepinski/scala.net.pl.png?branch=master)](https://travis-ci.org/mrzepinski/scala.net.pl)
+
 scala.net.pl
 ============
 
