@@ -9,8 +9,9 @@ object ApplicationBuild extends Build {
 
   val appDependencies = Seq(
     // Add your project dependencies here,
-    jdbc,
-    anorm
+    "com.typesafe.akka" %% "akka-actor" % "2.2.0",
+    "com.typesafe.akka" %% "akka-testkit" % "2.2.0" % "test",
+    "com.typesafe.slick" %% "slick" % "1.0.1"
   )
 
 
