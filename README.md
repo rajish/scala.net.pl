@@ -22,4 +22,4 @@ Look at: http://nvie.com/posts/a-successful-git-branching-model/
 
 ### Backlog
 
-* TODO
+- [ ] ElasticSearch - https://github.com/mrzepinski/scala.net.pl/issues/21
