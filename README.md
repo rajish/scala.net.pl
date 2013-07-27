@@ -23,3 +23,9 @@ Look at: http://nvie.com/posts/a-successful-git-branching-model/
 ### Backlog
 
 - [ ] ElasticSearch - https://github.com/mrzepinski/scala.net.pl/issues/21
+- [ ] News / blog management (admin panel) - https://github.com/mrzepinski/scala.net.pl/issues/22
+- [ ] News page (show, paginate, search, filter) - https://github.com/mrzepinski/scala.net.pl/issues/23
+- [ ] Scala Digg (show, add, serarch, filter, vote) - https://github.com/mrzepinski/scala.net.pl/issues/24
+- [ ] Scala Digg management (admin panel) - https://github.com/mrzepinski/scala.net.pl/issues/25
+- [ ] Homepage slider management (admin panel) - https://github.com/mrzepinski/scala.net.pl/issues/26
+- [ ] Tag cloud - https://github.com/mrzepinski/scala.net.pl/issues/27
