@@ -12,6 +12,7 @@ FIRST MOCKUPS - https://moqups.com/mrzepinski/pGq6uN2U/
 Look at: http://nvie.com/posts/a-successful-git-branching-model/
 
 ### Sprint #1
+- [x] Template - https://github.com/mrzepinski/scala.net.pl/issues/2
 - [ ] Mockups - https://github.com/mrzepinski/scala.net.pl/issues/5
 - [ ] Homepage - https://github.com/mrzepinski/scala.net.pl/issues/8
 - [ ] Database Engine - https://github.com/mrzepinski/scala.net.pl/issues/1
