@@ -16,6 +16,7 @@ Look at: http://nvie.com/posts/a-successful-git-branching-model/
 - [ ] Mockups - https://github.com/mrzepinski/scala.net.pl/issues/5
 - [ ] Homepage - https://github.com/mrzepinski/scala.net.pl/issues/8
 - [x] Database Engine - https://github.com/mrzepinski/scala.net.pl/issues/1
+- [x] Salat vs ReactiveMongo - https://github.com/mrzepinski/scala.net.pl/issues/28
 - [ ] Users (model) - https://github.com/mrzepinski/scala.net.pl/issues/14
 - [ ] Profile management (password, email etc) - https://github.com/mrzepinski/scala.net.pl/issues/15
 - [ ] User management - https://github.com/mrzepinski/scala.net.pl/issues/16
