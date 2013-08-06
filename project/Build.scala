@@ -12,7 +12,10 @@ object ApplicationBuild extends Build {
     "com.typesafe.akka" %% "akka-testkit" % "2.2.0" % "test",
     "org.reactivemongo" %% "play2-reactivemongo" % "0.9",
     "org.slf4j" % "slf4j-api" % "1.7.2",
-    "securesocial" %% "securesocial" % "master-SNAPSHOT"
+    "securesocial" %% "securesocial" % "master-SNAPSHOT",
+    "org.webjars" %% "webjars-play" % "2.1.0-2",
+    "org.webjars" % "bootstrap" % "3.0.0-rc1",
+    "org.webjars" % "angularjs" % "1.1.5-1"
   )
 
   val main = play.Project(appName, appVersion, appDependencies).settings(

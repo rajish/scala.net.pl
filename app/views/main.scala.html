@@ -13,8 +13,7 @@
     
          <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
     
-         <link href="@routes.Assets.at("bootplus/css/bootplus.min.css")" rel="stylesheet">
-         <link href="@routes.Assets.at("bootplus/css/bootplus-responsive.min.css")" rel="stylesheet">
+         <link rel='stylesheet' href='@routes.WebJarAssets.at(WebJarAssets.locate("css/bootstrap.min.css"))'>
     
          <!--[if lt IE 9]>
          <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -22,56 +21,73 @@
     
          <link rel="stylesheet" media="screen" href="@routes.Assets.at("stylesheets/main.css")">
          <link rel="shortcut icon" type="image/png" href="@routes.Assets.at("images/favicon.png")">
-         <script src="@routes.Assets.at("javascripts/jquery-2.0.3.min.js")" type="text/javascript"></script>
+         <script type='text/javascript' src='@routes.WebJarAssets.at(WebJarAssets.locate("jquery.min.js"))'></script>
     </head>
-    
-    <body data-spy="scroll" data-target=".bs-docs-sidebar">
 
-	    <!-- Navbar ================================================== -->
-		<div class="navbar navbar-fixed-top">
-			<div class="navbar-inner">
-				<div class="container">
-					<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-						<span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
-					</button>
-					<a class="brand" href="/">Scala.net.pl</a>
-					<div class="nav-collapse collapse">
-						<ul class="nav">
-							<li class="active"><a href="/">Home</a></li>
-							<li class=""><a href="#">Scala Digg</a></li>
-						</ul>
-					</div>
+	<body>
+		<div class="container-narrow">
+			<div class="header">
+				<ul class="nav nav-pills pull-right">
+					<li class="active"><a href="#">scala.net.pl</a></li>
+					<li><a href="#">Blog</a></li>
+					<li><a href="#">Scala Digg</a></li>
+				</ul>
+				<h3 class="text-muted">Project name</h3>
+			</div>
+	
+			<div class="jumbotron">
+				<h1>Scala.net.pl</h1>
+				<p class="lead">Polish Scala community :)</p>
+				<p>
+					<a class="btn btn-large btn-success" href="#">Start today</a>
+				</p>
+			</div>
+
+			<div class="row marketing">
+				<div class="col-lg-6">
+					<h4>Subheading</h4>
+					<p>Donec id elit non mi porta gravida at eget metus. Maecenas
+						faucibus mollis interdum.</p>
+	
+					<h4>Subheading</h4>
+					<p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+						Cras mattis consectetur purus sit amet fermentum.</p>
+	
+					<h4>Subheading</h4>
+					<p>Maecenas sed diam eget risus varius blandit sit amet non
+						magna.</p>
+				</div>
+	
+				<div class="col-lg-6">
+					<h4>Subheading</h4>
+					<p>Donec id elit non mi porta gravida at eget metus. Maecenas
+						faucibus mollis interdum.</p>
+	
+					<h4>Subheading</h4>
+					<p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+						Cras mattis consectetur purus sit amet fermentum.</p>
+	
+					<h4>Subheading</h4>
+					<p>Maecenas sed diam eget risus varius blandit sit amet non
+						magna.</p>
 				</div>
 			</div>
 		</div>
-	
-		<!-- Subhead
-		================================================== -->
-		<header class="jumbotron subhead masthead" id="overview">
-			<div class="container">
-				<h1>Scala.net.pl</h1>
-				<p class="lead">Polish Scala Community</p>
-			</div>
-		</header>
-		
+
 		<!-- Content
-		================================================== -->
+			================================================== -->
 		<div class="container">
-			<div class="row">
-        	@content
-        	</div>
-        </div>
+			<div class="row">@content</div>
+		</div>
 
 		<!-- Footer
-	    ================================================== -->
+		    ================================================== -->
 		<footer class="footer">
-			<div class="container">
-				<p>Copyright &copy; scala.net.pl 2013</p>
-			</div>
+			<p>Copyright &copy; scala.net.pl 2013</p>
 		</footer>
-		
+
 		<!-- Javascripts
-		================================================== -->
-		<script src="@routes.Assets.at("bootplus/js/bootstrap.min.js")" type="text/javascript"></script>
-    </body>
+			================================================== -->
+		<script type='text/javascript' src='@routes.WebJarAssets.at(WebJarAssets.locate("js/bootstrap.min.js"))'></script>
+	</body>
 </html>
