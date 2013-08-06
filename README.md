@@ -7,6 +7,7 @@ scala.net.pl
 DEV - http://scala-net-pl.herokuapp.com/
 
 FIRST STEPS - http://mrzepinski.github.io/scala.net.pl/
+
 FIRST MOCKUPS - https://moqups.com/mrzepinski/pGq6uN2U/
 
 ### NEW COMMITS > `DEV` BRANCH - will be merged :)
