@@ -4,8 +4,9 @@ DEV: [![Build Status](https://travis-ci.org/mrzepinski/scala.net.pl.png?branch=d
 scala.net.pl
 ============
 
-http://scala-net-pl.herokuapp.com/
+DEV - http://scala-net-pl.herokuapp.com/
 
+FIRST STEPS - http://mrzepinski.github.io/scala.net.pl/
 FIRST MOCKUPS - https://moqups.com/mrzepinski/pGq6uN2U/
 
 ### NEW COMMITS > `DEV` BRANCH - will be merged :)
