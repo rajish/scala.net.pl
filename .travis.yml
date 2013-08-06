@@ -7,3 +7,8 @@ before_script:
 script: play-${PLAY_VERSION}/play test
 notifications:
   email: false
+deploy:
+  provider: heroku
+  api_key:
+  app: scala-net-pl
+
