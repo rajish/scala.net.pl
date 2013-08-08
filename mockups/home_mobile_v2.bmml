@@ -1,0 +1,243 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1173" measuredH="862" mockupW="331" mockupH="861">
+  <controls>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="842" y="1" w="331" h="861" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Scala.net.pl%0Ahttp%3A//scala.net.pl</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="__group__" x="857" y="74" w="296" h="42" measuredW="296" measuredH="42" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="296" h="42" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="37"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="15" y="8" w="26" h="26" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="37">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="65" y="11" w="71" h="-1" measuredW="67" measuredH="21" zOrder="2" locked="false" isInGroup="37">
+          <controlProperties>
+            <text>scala.net.pl</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="39" controlTypeID="__group__" x="857" y="131" w="296" h="224" measuredW="296" measuredH="224" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="296" h="224" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="39"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="12" y="8" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="1" locked="false" isInGroup="39">
+          <controlProperties>
+            <text>Blog</text>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="__group__" x="10" y="35" w="273" h="73" measuredW="273" measuredH="73" zOrder="2" locked="false" isInGroup="39">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="273" h="73" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="14"/>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="15" y="9" w="114" h="-1" measuredW="95" measuredH="22" zOrder="1" locked="false" isInGroup="14">
+              <controlProperties>
+                <bold>true</bold>
+                <size>14</size>
+                <text>Blog%20post%20title</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="15" y="31" w="243" h="31" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="14">
+              <controlProperties>
+                <text>Arnold%20ipsum.%20C-coo-ool.%20I%20want%20my%20Larry.%20I%20wanna%20see%20you.%20You%27re%20a%20fucking%20choir%20boy%20compared%20to%20me.%20A%20choir%20boy%21%21%20I%27ll%20be%20back.</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="181" y="10" w="-1" h="-1" measuredW="71" measuredH="21" zOrder="3" locked="false" isInGroup="14">
+              <controlProperties>
+                <italic>true</italic>
+                <text>2013-08-04</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="16" controlTypeID="com.balsamiq.mockups::Link" x="232" y="198" w="-1" h="-1" measuredW="37" measuredH="19" zOrder="3" locked="false" isInGroup="39">
+          <controlProperties>
+            <text>More...</text>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="__group__" x="10" y="117" w="273" h="73" measuredW="273" measuredH="73" zOrder="4" locked="false" isInGroup="39">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="273" h="73" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="17"/>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="15" y="9" w="114" h="-1" measuredW="95" measuredH="22" zOrder="1" locked="false" isInGroup="17">
+              <controlProperties>
+                <bold>true</bold>
+                <size>14</size>
+                <text>Blog%20post%20title</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="15" y="31" w="243" h="31" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="17">
+              <controlProperties>
+                <text>Arnold%20ipsum.%20C-coo-ool.%20I%20want%20my%20Larry.%20I%20wanna%20see%20you.%20You%27re%20a%20fucking%20choir%20boy%20compared%20to%20me.%20A%20choir%20boy%21%21%20I%27ll%20be%20back.</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="181" y="10" w="-1" h="-1" measuredW="71" measuredH="21" zOrder="3" locked="false" isInGroup="17">
+              <controlProperties>
+                <italic>true</italic>
+                <text>2013-08-04</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="40" controlTypeID="__group__" x="858" y="361" w="296" h="302" measuredW="296" measuredH="302" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="296" h="302" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="40"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="18" y="6" w="-1" h="-1" measuredW="107" measuredH="21" zOrder="1" locked="false" isInGroup="40">
+          <controlProperties>
+            <text>Latest%20Scala%20Digg</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="14" y="33" w="273" h="235" measuredW="273" measuredH="235" zOrder="2" locked="false" isInGroup="40">
+          <groupChildrenDescriptors>
+            <control controlID="6" controlTypeID="__group__" x="0" y="0" w="273" h="73" measuredW="273" measuredH="73" zOrder="0" locked="false" isInGroup="2">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="273" h="73" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="6"/>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="9" y="6" w="-1" h="-1" measuredW="101" measuredH="22" zOrder="1" locked="false" isInGroup="6">
+                  <controlProperties>
+                    <bold>true</bold>
+                    <size>14</size>
+                    <text>Scala%20DiggTitle</text>
+                  </controlProperties>
+                </control>
+                <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="9" y="31" w="190" h="31" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="6">
+                  <controlProperties>
+                    <text>Arnold%20ipsum.%20C-coo-ool.%20I%20want%20my%20Larry.%20I%20wanna%20see%20you.%20You%27re%20a%20fucking%20choir%20boy%20compared%20to%20me.%20A%20choir%20boy%21%21%20I%27ll%20be%20back.</text>
+                  </controlProperties>
+                </control>
+                <control controlID="4" controlTypeID="com.balsamiq.mockups::PointyButton" x="205" y="8" w="-1" h="-1" measuredW="63" measuredH="27" zOrder="3" locked="false" isInGroup="6">
+                  <controlProperties>
+                    <direction>center</direction>
+                    <icon>ShiftIcon%7Cxsmall</icon>
+                    <menuIcon>false</menuIcon>
+                    <text>+20</text>
+                  </controlProperties>
+                </control>
+                <control controlID="5" controlTypeID="com.balsamiq.mockups::PointyButton" x="205" y="37" w="63" h="-1" measuredW="51" measuredH="27" zOrder="4" locked="false" isInGroup="6">
+                  <controlProperties>
+                    <direction>center</direction>
+                    <icon>DownArrowIcon%7Cxsmall</icon>
+                    <menuIcon>false</menuIcon>
+                    <text>-3</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="7" controlTypeID="__group__" x="0" y="81" w="273" h="73" measuredW="273" measuredH="73" zOrder="1" locked="false" isInGroup="2">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="273" h="73" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="7"/>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="9" y="6" w="-1" h="-1" measuredW="101" measuredH="22" zOrder="1" locked="false" isInGroup="7">
+                  <controlProperties>
+                    <bold>true</bold>
+                    <size>14</size>
+                    <text>Scala%20DiggTitle</text>
+                  </controlProperties>
+                </control>
+                <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="9" y="31" w="190" h="31" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="7">
+                  <controlProperties>
+                    <text>Arnold%20ipsum.%20C-coo-ool.%20I%20want%20my%20Larry.%20I%20wanna%20see%20you.%20You%27re%20a%20fucking%20choir%20boy%20compared%20to%20me.%20A%20choir%20boy%21%21%20I%27ll%20be%20back.</text>
+                  </controlProperties>
+                </control>
+                <control controlID="4" controlTypeID="com.balsamiq.mockups::PointyButton" x="205" y="8" w="-1" h="-1" measuredW="63" measuredH="27" zOrder="3" locked="false" isInGroup="7">
+                  <controlProperties>
+                    <direction>center</direction>
+                    <icon>ShiftIcon%7Cxsmall</icon>
+                    <menuIcon>false</menuIcon>
+                    <text>+20</text>
+                  </controlProperties>
+                </control>
+                <control controlID="5" controlTypeID="com.balsamiq.mockups::PointyButton" x="205" y="37" w="63" h="-1" measuredW="51" measuredH="27" zOrder="4" locked="false" isInGroup="7">
+                  <controlProperties>
+                    <direction>center</direction>
+                    <icon>DownArrowIcon%7Cxsmall</icon>
+                    <menuIcon>false</menuIcon>
+                    <text>-3</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="8" controlTypeID="__group__" x="0" y="162" w="273" h="73" measuredW="273" measuredH="73" zOrder="2" locked="false" isInGroup="2">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="273" h="73" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="8"/>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="9" y="6" w="-1" h="-1" measuredW="101" measuredH="22" zOrder="1" locked="false" isInGroup="8">
+                  <controlProperties>
+                    <bold>true</bold>
+                    <size>14</size>
+                    <text>Scala%20DiggTitle</text>
+                  </controlProperties>
+                </control>
+                <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="9" y="31" w="190" h="31" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="8">
+                  <controlProperties>
+                    <text>Arnold%20ipsum.%20C-coo-ool.%20I%20want%20my%20Larry.%20I%20wanna%20see%20you.%20You%27re%20a%20fucking%20choir%20boy%20compared%20to%20me.%20A%20choir%20boy%21%21%20I%27ll%20be%20back.</text>
+                  </controlProperties>
+                </control>
+                <control controlID="4" controlTypeID="com.balsamiq.mockups::PointyButton" x="205" y="8" w="-1" h="-1" measuredW="63" measuredH="27" zOrder="3" locked="false" isInGroup="8">
+                  <controlProperties>
+                    <direction>center</direction>
+                    <icon>ShiftIcon%7Cxsmall</icon>
+                    <menuIcon>false</menuIcon>
+                    <text>+20</text>
+                  </controlProperties>
+                </control>
+                <control controlID="5" controlTypeID="com.balsamiq.mockups::PointyButton" x="205" y="37" w="63" h="-1" measuredW="51" measuredH="27" zOrder="4" locked="false" isInGroup="8">
+                  <controlProperties>
+                    <direction>center</direction>
+                    <icon>DownArrowIcon%7Cxsmall</icon>
+                    <menuIcon>false</menuIcon>
+                    <text>-3</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="232" y="276" w="-1" h="-1" measuredW="37" measuredH="19" zOrder="3" locked="false" isInGroup="40">
+          <controlProperties>
+            <text>More...</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="53" controlTypeID="__group__" x="857" y="681" w="296" h="135" measuredW="296" measuredH="135" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="296" h="135" measuredW="296" measuredH="135" zOrder="0" locked="false" isInGroup="53">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="296" h="135" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="9" y="110" w="-1" h="-1" measuredW="110" measuredH="21" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Scala.net.pl%20-%202013</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::HRule" x="9" y="100" w="278" h="-1" measuredW="100" measuredH="10" zOrder="2" locked="false" isInGroup="0"/>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="13" y="8" w="-1" h="-1" measuredW="63" measuredH="19" zOrder="1" locked="false" isInGroup="53">
+          <controlProperties>
+            <text>Regulamin</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Link" x="13" y="33" w="-1" h="-1" measuredW="122" measuredH="19" zOrder="2" locked="false" isInGroup="53">
+          <controlProperties>
+            <text>Polityka%20Prywatno%u015Bci</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="13" y="58" w="-1" h="-1" measuredW="45" measuredH="19" zOrder="3" locked="false" isInGroup="53">
+          <controlProperties>
+            <text>Zesp%F3%u0142</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="13" y="80" w="-1" h="-1" measuredW="46" measuredH="19" zOrder="4" locked="false" isInGroup="53">
+          <controlProperties>
+            <text>Kontakt</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Image" x="1078" y="85" w="59" h="20" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Menu</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
