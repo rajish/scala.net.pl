@@ -1,22 +1,18 @@
-@(message: String)
+@(message: String, userBox: => Html)
 
-@main("Scala.net.pl - Polish Scala Community") {
-    
-<div class="span4">
-	<div class="card">
-		<h1>First column</h1>
-	</div>
-</div>
+@main("Scala.net.pl - Polish Scala Community", true) {
 
-<div class="span4">
-	<div class="card">
-		<h1>Second column</h1>
-	</div>
-</div>
+@common.card("First column", 4) {
+    <p>Some content here</p>
+}
+
+@common.card("Second column", 4) {
+    <p>Some another content here</p>
+}
 
 <div class="span4">
 	<div class="card hovercard pull-right">
-		<h1>Third column</h1>
+        @userBox
 	</div>
 </div>
     

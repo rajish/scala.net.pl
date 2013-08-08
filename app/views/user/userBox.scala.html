@@ -1,0 +1,23 @@
+@(user: models.auth.User)(implicit request: RequestHeader)
+
+<h1>Your profile</h1>
+<img src="http://www.scala-lang.org/resources/img/smooth-spiral.png" />
+<div class="avatar">
+    <img src="@{user.avatarUrl getOrElse ("http://www.scala-lang.org/resources/img/smooth-spiral.png")}"/>
+</div>
+
+<div class="info">
+    <div class="title">
+        @user.fullName
+    </div>
+    <div class="desc">
+        Witaj na scala.net.pl!
+    </div>
+    @(user.lastActivity map { lastAct =>
+        <div class="desc">Ostatnie logowanie:<br /> {lastAct}</div>
+    })
+</div>
+
+<div class="bottom">
+    <a class="btn" href="@securesocial.controllers.routes.LoginPage.logout.url">Wyloguj</a>
+</div>

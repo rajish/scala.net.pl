@@ -1,0 +1,10 @@
+@(title: String, span: Int = 12, offset: Int = 0)(content: => Html)
+
+<div class="span@span offset@offset">
+    <div class="card">
+        <h3 class="card-heading simple">@title</h3>
+        <div class="card-body">
+            @content
+        </div>
+    </div>
+</div>

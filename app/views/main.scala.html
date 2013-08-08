@@ -1,4 +1,4 @@
-@(title: String)(content: Html)
+@(title: String, showSubHead: Boolean = false)(content: Html)
 <!DOCTYPE html>
 <html>
     <head>
@@ -38,13 +38,14 @@
 					<div class="nav-collapse collapse">
 						<ul class="nav">
 							<li class="active"><a href="/">Home</a></li>
-							<li class=""><a href="#">Scala Digg</a></li>
+							<li class=""><a href="@controllers.routes.Application.secureTest.url">Only members example</a></li>
 						</ul>
 					</div>
 				</div>
 			</div>
 		</div>
-	
+
+        @(if(showSubHead){
 		<!-- Subhead
 		================================================== -->
 		<header class="jumbotron subhead masthead" id="overview">
@@ -53,6 +54,7 @@
 				<p class="lead">Polish Scala Community</p>
 			</div>
 		</header>
+        })
 		
 		<!-- Content
 		================================================== -->
